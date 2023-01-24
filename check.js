@@ -1,5 +1,5 @@
 {
-	"ScriptName":"ataCharCreator",
+	"ScriptName":"taCharCreator",
   	"NewVersion":"4.2.1"
 },
 {
