@@ -1,9 +1,8 @@
 {
-	scripts : [{
-		name : 'salam',
-		version : '2.1'
-		
-	},
-		   {name : 'salama',
-		version : '2.2'}]
+	{'scriptname' : 'ataCharCreator',
+	'version' : '1.2'},
+{'scriptname' : 'ataGarage',
+	'version' : '1.3'},
+
+
 }
