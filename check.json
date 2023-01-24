@@ -1,0 +1,9 @@
+{
+	scripts : [{
+		name : 'salam',
+		version : '2.1'
+		
+	},
+		   {name : 'salama',
+		version : '2.2'}]
+}
